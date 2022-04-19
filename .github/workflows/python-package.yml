@@ -1,8 +1,8 @@
 name: Publish Python distributions to PyPI and TestPyPI
 on:
-  [push,workflow_dispatch]
+  push:
     branch: [ main ]
-  [pull_request,workflow_dispatch] 
+  pull_request:
     branch: [ main ]
 
 jobs:
