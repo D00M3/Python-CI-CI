@@ -4,8 +4,8 @@ from setuptools import setup, find_packages
 setup(
     name="timechecker",
     version="0.0.1",
-    author="Edidiong Etuk",
-    author_email="edeediong@gmail.com",
+    author="bob321",
+    author_email="Apollo12123451@gmail.com",
     url="https://bit.ly/edeediong-resume",
     description="An application that informs you of the time in different locations and timezones",
     packages=find_packages(),
