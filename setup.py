@@ -2,9 +2,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="timechecker",
+    name="bob321",
     version="0.0.1",
-    author="bob321",
+    author="Zaki",
     author_email="Apollo12123451@gmail.com",
     url="https://bit.ly/edeediong-resume",
     description="An application that informs you of the time in different locations and timezones",
