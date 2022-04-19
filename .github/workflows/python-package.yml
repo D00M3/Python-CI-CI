@@ -1,6 +1,6 @@
 name: Publish Python distributions to PyPI and TestPyPI
 on:
-  [push, worflorw_dispatch]
+  [push,workflow_dispatch]
     branch: [ main ]
   [pull_request,workflow_dispatch] 
     branch: [ main ]
