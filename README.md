@@ -1,2 +1,2 @@
-# Python-CI-CD
-A working python CI/CD pipeline using github actions and test pypi. 
+# Python-CI-CI
+Python CI/CD Pipeline 
